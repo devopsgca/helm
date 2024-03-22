@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  angular:
+  - apiVersion: v2
+    created: "2024-03-22T15:37:31.9017381+01:00"
+    description: A Helm chart for Kubernetes
+    digest: a766748ab8fbbcdb1dbed51a66853e33b7496c5e33bd0e7654c09c4f77228e81
+    name: angular
+    type: application
+    urls:
+    - https://dev.azure.com/gca-trans/_git/Devops/?path=/charts/angular/angular-1.0.0.tgz
+    version: 1.0.0
+generated: "2024-03-22T15:37:31.89795+01:00"
