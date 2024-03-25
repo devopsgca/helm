@@ -8,6 +8,6 @@ entries:
     name: angular
     type: application
     urls:
-    - https://github.com/devopsgca/helm/blob/main/angular-1.0.0.tgz
+    - https://um3luwe3wglv7eqmfvqqknryufmw25fq7tttua3zvwfc5jaqxlza@https://dev.azure.com/gca-trans/_git/Devops
     version: 1.0.0
 generated: "2024-03-22T15:37:31.89795+01:00"
