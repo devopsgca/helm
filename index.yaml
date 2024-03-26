@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   angular:
   - apiVersion: v2
-    created: "2024-03-26T13:17:29.6377567+01:00"
+    created: "2024-03-26T14:12:03.5599128+01:00"
     description: A Helm chart for Kubernetes
     digest: a766748ab8fbbcdb1dbed51a66853e33b7496c5e33bd0e7654c09c4f77228e81
     name: angular
@@ -10,9 +10,19 @@ entries:
     urls:
     - https://devopsgca.github.io/helm/angular-1.0.0.tgz
     version: 1.0.0
+  quarkus-web:
+  - apiVersion: v2
+    created: "2024-03-26T14:12:03.5604493+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 45cecb0521918cee979da05add7fd43fd441692bd69c602a248477d2f9d1e545
+    name: quarkus-web
+    type: application
+    urls:
+    - https://devopsgca.github.io/helm/quarkus-web-1.0.0.tgz
+    version: 1.0.0
   spring-boot-web:
   - apiVersion: v2
-    created: "2024-03-26T13:17:29.6388251+01:00"
+    created: "2024-03-26T14:12:03.5617847+01:00"
     description: A Helm chart for Kubernetes
     digest: fce6b6b6b640f71618c34051b6adf1eab621738bcf5d7824fcf0e16044d8ecfd
     name: spring-boot-web
@@ -20,4 +30,4 @@ entries:
     urls:
     - https://devopsgca.github.io/helm/spring-boot-web-1.0.0.tgz
     version: 1.0.0
-generated: "2024-03-26T13:17:29.6339488+01:00"
+generated: "2024-03-26T14:12:03.5583241+01:00"
