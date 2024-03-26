@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   angular:
   - apiVersion: v2
-    created: "2024-03-22T15:37:31.9017381+01:00"
+    created: "2024-03-26T13:17:29.6377567+01:00"
     description: A Helm chart for Kubernetes
     digest: a766748ab8fbbcdb1dbed51a66853e33b7496c5e33bd0e7654c09c4f77228e81
     name: angular
@@ -10,4 +10,14 @@ entries:
     urls:
     - https://devopsgca.github.io/helm/angular-1.0.0.tgz
     version: 1.0.0
-generated: "2024-03-22T15:37:31.89795+01:00"
+  spring-boot-web:
+  - apiVersion: v2
+    created: "2024-03-26T13:17:29.6388251+01:00"
+    description: A Helm chart for Kubernetes
+    digest: fce6b6b6b640f71618c34051b6adf1eab621738bcf5d7824fcf0e16044d8ecfd
+    name: spring-boot-web
+    type: application
+    urls:
+    - https://devopsgca.github.io/helm/spring-boot-web-1.0.0.tgz
+    version: 1.0.0
+generated: "2024-03-26T13:17:29.6339488+01:00"
